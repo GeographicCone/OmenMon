@@ -2,7 +2,7 @@ _**OmenMon** is a successor to [OmenHwCtl](https://github.com/GeographicCone/Ome
 
 # OmenMon
 
-<p align="center"><a href="https://omenmon.github.io/">Project Page &amp; Documentation</a> • <a href="https://omenmon.github.io/build">Building Instructions</a> • <a href="https://github.com/OmenMon/Localization">Translation Repository</a> • <a href="https://github.com/OmenMon/OmenMon/releases/latest">Download Latest Release ⭳</a></p>
+<p align="center"><a href="https://omenmon.github.io/">Project Page &amp; Documentation</a> • <a href="https://omenmon.github.io/build">How to Build</a> • <a href="https://omenmon.github.io/build#history">Version History</a> • <a href="https://github.com/OmenMon/Localization">Translations</a> • <a href="https://github.com/OmenMon/OmenMon/releases/latest">Download ⭳</a></p>
 
 ![OmenMon graphical mode overview](https://omenmon.github.io/pic/gui-overview.png)
 
@@ -13,7 +13,5 @@ _**OmenMon** is a successor to [OmenHwCtl](https://github.com/GeographicCone/Ome
 **OmenMon** is designed to run with minimal resource overhead. It comes with a clear and compact [graphical interface](https://omenmon.github.io/gui), offering a great degree of [configurability](https://omenmon.github.io/config) while also featuring an extensive [command-line mode](https://omenmon.github.io/cli) where various BIOS and EC read and write operations can be performed manually. 
 
 Most features are specific to _HP_ devices with a compatible BIOS interface exposed by the `ACPI\PNP0C14` driver but command-line [Embedded Controller operations](https://omenmon.github.io/cli#ec) should work on all laptops.
-
-Full documentation is available at [https://omenmon.github.io/](https://omenmon.github.io/)
 
 _This software is not affiliated with or endorsed by HP. Any brand names are used for informational purposes only._
